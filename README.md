@@ -1,0 +1,2 @@
+# balatrosolver
+Solver for Balatro

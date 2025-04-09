@@ -24,12 +24,13 @@ The deck building aspects come in several forms:
 
 Given a hand, along with a set of jokers, what is the play that will lead to the most chips, both now and in the future? I'm going to analyze the following, and code it in this order:
 
+1. How many points is a 5 card hand worth?
 1. Given an 8 card hand, what is the best 5 card poker hand we can make from these 8 cards?
-2. For a poker hand with less than 5 cards, is it worth it to play extra cards that don't count to hopefully get better cards in the future?
-3. Is discarding going to get you more points than playing your hand?
-4. Make value of hands modifiable.
-5. Include jokers in analysis.
-6. Include traits on cards that can be added by tarot cards and spectral cards.
+1. For a poker hand with less than 5 cards, is it worth it to play extra cards that don't count to hopefully get better cards in the future?
+1. Is discarding going to get you more points than playing your hand?
+1. Make value of hands modifiable.
+1. Include jokers in analysis.
+1. Include traits on cards that can be added by tarot cards and spectral cards.
 
 I'll add items to calculate as I think of them.
 
